@@ -1,562 +1,1113 @@
-#EXTM3U
-
-#EXTINF:-1,A&E HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1521
-#EXTINF:-1,A&E HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/375
-#EXTINF:-1,AMC HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1498
-#EXTINF:-1,AMC HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/373
-#EXTINF:-1,Animal Planet HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1497
-#EXTINF:-1,Animal Planet HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/371
-#EXTINF:-1,Arte 1 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/15
-#EXTINF:-1,As Aventuras de Jackie Chan (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2326
-#EXTINF:-1,AXN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1496
-#EXTINF:-1,AXN HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/369
-#EXTINF:-1,Baby TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/367
-#EXTINF:-1,Band HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/489
-#EXTINF:-1,Band HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/484
-#EXTINF:-1,Band News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1494
-#EXTINF:-1,Band News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/363
-#EXTINF:-1,Band Sports HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1495
-#EXTINF:-1,Band Sports HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/360
-#EXTINF:-1,BBB 2020 PRINCIPAL HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3975
-#EXTINF:-1,BBB 2020 CAM 1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5163
-#EXTINF:-1,BBB 2020 CAM 10 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5172
-#EXTINF:-1,BBB 2020 CAM 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5164
-#EXTINF:-1,BBB 2020 CAM 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5165
-#EXTINF:-1,BBB 2020 CAM 4 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5166
-#EXTINF:-1,BBB 2020 CAM 5 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5167
-#EXTINF:-1,BBB 2020 CAM 6 HD 
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5168
-#EXTINF:-1,BBB 2020 CAM 7 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5169
-#EXTINF:-1,BBB 2020 CAM 8 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5170
-#EXTINF:-1,BBB 2020 CAM 9 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5171
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118544
+#EXTINF:-1,BABY FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118488
+#EXTINF:-1,BABY HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118487
+#EXTINF:-1,BABY TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118486
+#EXTINF:-1,BAND
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118869
+#EXTINF:-1,BAND BAHIA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120632
+#EXTINF:-1,BAND BRASILIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120608
+#EXTINF:-1,BAND CAMPINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120609
+#EXTINF:-1,BAND FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118871
+#EXTINF:-1,BAND GO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120614
+#EXTINF:-1,BAND HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118870
+#EXTINF:-1,BAND NEWS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118525
+#EXTINF:-1,BAND NEWS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118527
+#EXTINF:-1,BAND NEWS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118526
+#EXTINF:-1,BAND PARANA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120649
+#EXTINF:-1,BAND RJ HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120610
+#EXTINF:-1,BAND RS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120611
+#EXTINF:-1,BAND SERGIPE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120612
+#EXTINF:-1,BAND SP HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120613
+#EXTINF:-1,BAND SPORTS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118645
+#EXTINF:-1,BAND SPORTS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118647
+#EXTINF:-1,BAND SPORTS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118646
+#EXTINF:-1,BBB 2020 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118354
+#EXTINF:-1,BBB 2020 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118353
+#EXTINF:-1,BBB 20 CAM 1
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118333
+#EXTINF:-1,BBB 20 CAM 1 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118334
+#EXTINF:-1,BBB 20 CAM 10
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118350
+#EXTINF:-1,BBB 20 CAM 10 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118349
+#EXTINF:-1,BBB 20 CAM 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118335
+#EXTINF:-1,BBB 20 CAM 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118336
+#EXTINF:-1,BBB 20 CAM 3
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118337
+#EXTINF:-1,BBB 20 CAM 3 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118338
+#EXTINF:-1,BBB 20 CAM 4
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118339
+#EXTINF:-1,BBB 20 CAM 4 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118340
+#EXTINF:-1,BBB 20 CAM 5
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118341
+#EXTINF:-1,BBB 20 CAM 5 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118342
+#EXTINF:-1,BBB 20 CAM 6
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118343
+#EXTINF:-1,BBB 20 CAM 6 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118344
+#EXTINF:-1,BBB 20 CAM 7
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118345
+#EXTINF:-1,BBB 20 CAM 7 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118346
+#EXTINF:-1,BBB 20 CAM 8
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118347
+#EXTINF:-1,BBB 20 CAM 8 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118348
+#EXTINF:-1,BBB 20 CAM 9
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118351
+#EXTINF:-1,BBB 20 CAM 9 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118352
+#EXTINF:-1,BIS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118899
+#EXTINF:-1,BIS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118901
 #EXTINF:-1,BIS HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1493
-#EXTINF:-1,BIS HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/358
-#EXTINF:-1,Bob Esponja (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2327
-#EXTINF:-1,Boomerang HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1492
-#EXTINF:-1,Boomerang HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/355
-#EXTINF:-1,Canal Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/353
-#EXTINF:-1,Cartoon Network HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1491
-#EXTINF:-1,Cartoon Network HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/349
-#EXTINF:-1,Chaves (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2701
-#EXTINF:-1,Cinemax HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1490
-#EXTINF:-1,Cinemax HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/347
-#EXTINF:-1,Clássicos Walt Disney (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3970
-#EXTINF:-1,CNN Espanhol SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/345
-#EXTINF:-1,CNN Internacional SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/344
-#EXTINF:-1,Combate HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1489
-#EXTINF:-1,Combate HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/342
-#EXTINF:-1,Comedy Central HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1488
-#EXTINF:-1,Comedy Central HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/340
-#EXTINF:-1,Curta! SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/338
-#EXTINF:-1,DAZN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2716
-#EXTINF:-1,Discovery Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1487
-#EXTINF:-1,Discovery Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/337
-#EXTINF:-1,Discovery Home & Health HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1518
-#EXTINF:-1,Discovery Home & Health HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/334
-#EXTINF:-1,Discovery Kids HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1483
-#EXTINF:-1,Discovery Kids HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/332
-#EXTINF:-1,Discovery Science HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1482
-#EXTINF:-1,Discovery Science HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/330
-#EXTINF:-1,Discovery Theater HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1486
-#EXTINF:-1,Discovery Theater HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/329
-#EXTINF:-1,Discovery Turbo HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1481
-#EXTINF:-1,Discovery Turbo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/328
-#EXTINF:-1,Discovery World HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1485
-#EXTINF:-1,Discovery World HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/326
-#EXTINF:-1,Disney Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1480
-#EXTINF:-1,Disney Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/325
-#EXTINF:-1,Disney Júnior HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1478
-#EXTINF:-1,Disney Júnior HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/323
-#EXTINF:-1,Disney XD HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1517
-#EXTINF:-1,Disney XD HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/683
-#EXTINF:-1,Dragon Ball Super (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3972
-#EXTINF:-1,Dragon Ball Z (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3973
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118900
+#EXTINF:-1,BOOMERANG
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118465
+#EXTINF:-1,BOOMERANG FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118467
+#EXTINF:-1,BOOMERANG HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118466
+#EXTINF:-1,CANAL BRASIL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118872
+#EXTINF:-1,CANAL BRASIL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118874
+#EXTINF:-1,CANAL BRASIL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118873
+#EXTINF:-1,CANAL DO BOI
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118875
+#EXTINF:-1,CARTOON NETWORK
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118489
+#EXTINF:-1,CARTOON NETWORK FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118491
+#EXTINF:-1,CARTOON NETWORK HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118490
+#EXTINF:-1,CHEF TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118948
+#EXTINF:-1,CHEF TV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118950
+#EXTINF:-1,CHEF TV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118949
+#EXTINF:-1,CINEMAX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118546
+#EXTINF:-1,CINEMAX FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118548
+#EXTINF:-1,CINEMAX HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118547
+#EXTINF:-1,CNN ESPANHOL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118528
+#EXTINF:-1,CNN ESPANHOL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118530
+#EXTINF:-1,CNN ESPANHOL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118529
+#EXTINF:-1,CNN INTERNACIONAL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118531
+#EXTINF:-1,CNN INTERNACIONAL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118533
+#EXTINF:-1,CNN INTERNACIONAL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118532
+#EXTINF:-1,COMBATE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118609
+#EXTINF:-1,COMBATE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118611
+#EXTINF:-1,COMBATE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118610
+#EXTINF:-1,COMEDY CENTRAL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118902
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118904
+#EXTINF:-1,COMEDY CENTRAL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118903
+#EXTINF:-1,COPA CATARINENSE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118649
+#EXTINF:-1,COPA CATARINENSE 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118650
+#EXTINF:-1,COPA CATARINENSE 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118651
+#EXTINF:-1,COPA CATARINENSE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118652
+#EXTINF:-1,COPA DO NORDESTE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118653
+#EXTINF:-1,COPA DO NORDESTE 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118654
+#EXTINF:-1,COPA DO NORDESTE 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118655
+#EXTINF:-1,COPA DO NORDESTE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118656
+#EXTINF:-1,CURTA!
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118905
+#EXTINF:-1,CURTA! FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118907
+#EXTINF:-1,CURTA! HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118906
+#EXTINF:-1,DAZN
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118657
+#EXTINF:-1,DAZN FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118658
+#EXTINF:-1,DISCOVERY CHANNEL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118830
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118832
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118831
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118833
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118835
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118834
+#EXTINF:-1,DISCOVERY ID
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118836
+#EXTINF:-1,DISCOVERY ID FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118838
+#EXTINF:-1,DISCOVERY ID HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118837
+#EXTINF:-1,DISCOVERY KIDS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118468
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118470
+#EXTINF:-1,DISCOVERY KIDS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118469
+#EXTINF:-1,DISCOVERY SCIENCE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118839
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118841
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118840
+#EXTINF:-1,DISCOVERY THEATHER
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118842
+#EXTINF:-1,DISCOVERY THEATHER FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118844
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118843
+#EXTINF:-1,DISCOVERY TLC
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118851
+#EXTINF:-1,DISCOVERY TLC FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118853
+#EXTINF:-1,DISCOVERY TLC HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118852
+#EXTINF:-1,DISCOVERY TURBO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118845
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118847
+#EXTINF:-1,DISCOVERY TURBO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118846
+#EXTINF:-1,DISCOVERY WORLD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118848
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118850
+#EXTINF:-1,DISCOVERY WORLD HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118849
+#EXTINF:-1,DISNEY CHANNEL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118471
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118473
+#EXTINF:-1,DISNEY CHANNEL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118472
+#EXTINF:-1,DISNEY JR
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118474
+#EXTINF:-1,DISNEY JR FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118476
+#EXTINF:-1,DISNEY JR HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118475
+#EXTINF:-1,DISNEY XD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118477
+#EXTINF:-1,DISNEY XD FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118479
+#EXTINF:-1,DISNEY XD HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118478
+#EXTINF:-1,E!
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118908
+#EXTINF:-1,E! FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118910
 #EXTINF:-1,E! HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/318
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118909
+#EXTINF:-1,EIPLUS 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118659
+#EXTINF:-1,EIPLUS 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118660
+#EXTINF:-1,EIPLUS 3
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118661
+#EXTINF:-1,EIPLUS 3 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118662
+#EXTINF:-1,EIPLUS 4
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118663
+#EXTINF:-1,EIPLUS 4 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118664
+#EXTINF:-1,EIPLUS 5
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118665
+#EXTINF:-1,EIPLUS 5 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118666
+#EXTINF:-1,EIPLUS 6
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118667
+#EXTINF:-1,EIPLUS 6 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118668
+#EXTINF:-1,ESPN
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118620
+#EXTINF:-1,ESPN 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118612
+#EXTINF:-1,ESPN 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118614
 #EXTINF:-1,ESPN 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1476
-#EXTINF:-1,ESPN 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/314
-#EXTINF:-1,ESPN Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1475
-#EXTINF:-1,ESPN Brasil HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/313
-#EXTINF:-1,ESPN Extra HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/311
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118613
+#EXTINF:-1,ESPN BRASIL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118615
+#EXTINF:-1,ESPN BRASIL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118617
+#EXTINF:-1,ESPN BRASIL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118616
+#EXTINF:-1,ESPN EXTRA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118618
+#EXTINF:-1,ESPN EXTRA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118619
+#EXTINF:-1,ESPN FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118622
 #EXTINF:-1,ESPN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1477
-#EXTINF:-1,ESPN HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/309
-#EXTINF:-1,Eu a Patroa e as Crianças (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3974
-#EXTINF:-1,Fish TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/307
-#EXTINF:-1,Food Netword HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1474
-#EXTINF:-1,Food Network HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/306
-#EXTINF:-1,Fox HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1473
-#EXTINF:-1,Fox HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/304
-#EXTINF:-1,Fox Life HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1472
-#EXTINF:-1,Fox Life HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/303
-#EXTINF:-1,Fox Premium 1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1505
-#EXTINF:-1,Fox Sports 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1501
-#EXTINF:-1,Fox Sports 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/300
-#EXTINF:-1,Fox Sports HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1502
-#EXTINF:-1,Fox Sports HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/298
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118621
+#EXTINF:-1,ESPORTE INTERATIVO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118623
+#EXTINF:-1,ESPORTE INTERATIVO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118624
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118625
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118626
+#EXTINF:-1,FISH TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118627
+#EXTINF:-1,FISH TV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118629
+#EXTINF:-1,FISH TV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118628
+#EXTINF:-1,FOOD NETWORK
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118911
+#EXTINF:-1,FOOD NETWORK FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118913
+#EXTINF:-1,FOOD NETWORK HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118912
+#EXTINF:-1,FOX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118579
+#EXTINF:-1,FOX FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118581
+#EXTINF:-1,FOX HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118580
+#EXTINF:-1,FOX LIFE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118914
+#EXTINF:-1,FOX LIFE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118916
+#EXTINF:-1,FOX LIFE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118915
+#EXTINF:-1,FOX NEWS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118536
+#EXTINF:-1,FOX NEWS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118534
+#EXTINF:-1,FOX NEWS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118535
+#EXTINF:-1,FOX PREMIUM 1
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118582
+#EXTINF:-1,FOX PREMIUM 1 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118584
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118583
+#EXTINF:-1,FOX PREMIUM 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118585
+#EXTINF:-1,FOX PREMIUM 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118587
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118586
+#EXTINF:-1,FOX SPORTS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118630
+#EXTINF:-1,FOX SPORT HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118631
+#EXTINF:-1,FOX SPORTS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118632
+#EXTINF:-1,FOX SPORTS 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118633
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118635
+#EXTINF:-1,FOX SPORTS 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118634
+#EXTINF:-1,FX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118588
+#EXTINF:-1,FX FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118590
 #EXTINF:-1,FX HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1469
-#EXTINF:-1,FX HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/294
-#EXTINF:-1,Galinha Pintadinha (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4204
-#EXTINF:-1,Globo Bahia HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2707
-#EXTINF:-1,Globo Bahia SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/260
-#EXTINF:-1,Globo Brasilia HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/291
-#EXTINF:-1,Globo Centro America HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2712
-#EXTINF:-1,Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/289
-#EXTINF:-1,Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2711
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/287
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2952
-#EXTINF:-1,Globo EPTV Sul Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4469
-#EXTINF:-1,Globo EPTV Sul Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4468
-#EXTINF:-1,Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2941
-#EXTINF:-1,Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2940
-#EXTINF:-1,Globo Goiânia SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/262
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4471
-#EXTINF:-1,Globo Inter TV Grande Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4470
-#EXTINF:-1,Globo Manaus
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/19
-#EXTINF:-1,Globo Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/279
-#EXTINF:-1,Globo Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2713
-#EXTINF:-1,Globo News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1468
-#EXTINF:-1,Globo News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/277
-#EXTINF:-1,Globo Nordeste HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/275
-#EXTINF:-1,Globo Nordeste HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2714
-#EXTINF:-1,Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2710
-#EXTINF:-1,Globo RBS Poa HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1467
-#EXTINF:-1,Globo RBS Poa HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/271
-#EXTINF:-1,Globo RJ HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1504
-#EXTINF:-1,Globo RJ HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/268
-#EXTINF:-1,Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2709
-#EXTINF:-1,Globo RPC SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/266
-#EXTINF:-1,Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2945
-#EXTINF:-1,Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2944
-#EXTINF:-1,Globo Sergipe HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/250
-#EXTINF:-1,Globo São Paulo HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1466
-#EXTINF:-1,Globo São Paulo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/265
-#EXTINF:-1,Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2708
-#EXTINF:-1,Globo TV Diario Mogi HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2947
-#EXTINF:-1,Globo TV Diario Mogi HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2946
-#EXTINF:-1,Globo TV Fronteira HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2943
-#EXTINF:-1,Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2942
-#EXTINF:-1,Globo TV Gazeta Alagoas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4467
-#EXTINF:-1,Globo TV Gazeta HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/75
-#EXTINF:-1,Globo TV Liberal
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2706
-#EXTINF:-1,Globo TV Mirante HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2705
-#EXTINF:-1,Globo TV Morena HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2704
-#EXTINF:-1,Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2949
-#EXTINF:-1,Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2948
-#EXTINF:-1,Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2954
-#EXTINF:-1,Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2953
-#EXTINF:-1,Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2951
-#EXTINF:-1,Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2950
-#EXTINF:-1,Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2703
-#EXTINF:-1,Gloob HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1499
-#EXTINF:-1,Gloob HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/686
-#EXTINF:-1,Gloobinho HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1515
-#EXTINF:-1,Gloobinho HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/237
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118589
+#EXTINF:-1,GAZETA HD SP
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120638
+#EXTINF:-1,GLOBO BRASILIA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118394
+#EXTINF:-1,GLOBO BRASILIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118395
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118398
+#EXTINF:-1,GLOBO CENTRO AMERICA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118397
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118399
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118401
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118400
+#EXTINF:-1,GLOBO EPTV CAMPINAS*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118402
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118403
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118405
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118404
+#EXTINF:-1,GLOBO GAZETA SUL ES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120652
+#EXTINF:-1,GLOBO GAZETA SUL ES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120653
+#EXTINF:-1,GLOBO GAZETA SUL ES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120654
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118406
+#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118463
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118408
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118407
+#EXTINF:-1,GLOBO MINAS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118409
+#EXTINF:-1,GLOBO MINAS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118411
+#EXTINF:-1,GLOBO MINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118410
+#EXTINF:-1,GLOBO NEWS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118522
+#EXTINF:-1,GLOBO NEWS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118524
+#EXTINF:-1,GLOBO NEWS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118523
+#EXTINF:-1,GLOBO NORDESTE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118416
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118415
+#EXTINF:-1,GLOBO NORDESTE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118412
+#EXTINF:-1,GLOBO NORDESTE HD*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118414
+#EXTINF:-1,GLOBO NORDESTE*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118413
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118420
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118417
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118419
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118418
+#EXTINF:-1,GLOBO PARAIBA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120657
+#EXTINF:-1,GLOBO PIAUI HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120658
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118421
+#EXTINF:-1,GLOBO RBS TV POA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118422
+#EXTINF:-1,GLOBO RBS TV POA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118424
+#EXTINF:-1,GLOBO RBS TV POA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118423
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118425
+#EXTINF:-1,GLOBO RIO SUL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120655
+#EXTINF:-1,GLOBO RJ CABO FRIO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120656
+#EXTINF:-1,GLOBO RJ FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118427
+#EXTINF:-1,GLOBO RJ HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118426
+#EXTINF:-1,GLOBO RPC PARANAENSE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118428
+#EXTINF:-1,GLOBO RPC PARANAENSE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118430
+#EXTINF:-1,GLOBO RPC PARANAENSE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118429
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118431
+#EXTINF:-1,GLOBO SP
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118433
+#EXTINF:-1,GLOBO SP FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118437
+#EXTINF:-1,GLOBO SP HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118432
+#EXTINF:-1,GLOBO SP HD*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118436
+#EXTINF:-1,GLOBO SP*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118434
+#EXTINF:-1,GLOBO SP**
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118435
+#EXTINF:-1,GLOBO TV ANHANGUERA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118438
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118464
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118462
+#EXTINF:-1,GLOBO TV ANHANGUERA*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118439
+#EXTINF:-1,GLOBO TV BAHIA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118440
+#EXTINF:-1,GLOBO TV BAHIA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118442
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118441
+#EXTINF:-1,GLOBO TV BAHIA*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118443
+#EXTINF:-1,GLOBO TV BELEM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118444
+#EXTINF:-1,GLOBO TV BELEM FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118446
+#EXTINF:-1,GLOBO TV BELEM HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118445
+#EXTINF:-1,GLOBO TV BRASILIA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118396
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118447
+#EXTINF:-1,GLOBO TV MIRANTE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118448
+#EXTINF:-1,GLOBO TV MIRANTE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118450
+#EXTINF:-1,GLOBO TV MIRANTE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118449
+#EXTINF:-1,GLOBO TV MORENA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118451
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118453
+#EXTINF:-1,GLOBO TV MORENA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118452
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118454
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118455
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118456
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118457
+#EXTINF:-1,GLOBO TV VERDES MARES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118459
+#EXTINF:-1,GLOBO TV VERDES MARES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118461
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118458
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118460
+#EXTINF:-1,GLOBOSAT FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118947
+#EXTINF:-1,GLOBOSAT HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118946
+#EXTINF:-1,GLOOB
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118480
+#EXTINF:-1,GLOOB FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118482
+#EXTINF:-1,GLOOB HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118481
+#EXTINF:-1,GLOOBINHO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118483
+#EXTINF:-1,GLOOBINHO FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118485
+#EXTINF:-1,GLOOBINHO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118484
+#EXTINF:-1,GNT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118917
+#EXTINF:-1,GNT FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118919
 #EXTINF:-1,GNT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/235
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118918
+#EXTINF:-1,H2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118868
+#EXTINF:-1,H2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118866
 #EXTINF:-1,H2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1465
-#EXTINF:-1,H2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/233
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118867
+#EXTINF:-1,HBO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118507
+#EXTINF:-1,HBO 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118510
+#EXTINF:-1,HBO 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118512
 #EXTINF:-1,HBO 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1460
-#EXTINF:-1,HBO 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/231
-#EXTINF:-1,HBO Family HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1464
-#EXTINF:-1,HBO Family HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/229
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118511
+#EXTINF:-1,HBO FAMILY
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118513
+#EXTINF:-1,HBO FAMILY FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118515
+#EXTINF:-1,HBO FAMILY HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118514
+#EXTINF:-1,HBO FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118509
 #EXTINF:-1,HBO HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1463
-#EXTINF:-1,HBO HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/227
-#EXTINF:-1,HBO Plus HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1462
-#EXTINF:-1,HBO Plus HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/226
-#EXTINF:-1,HBO Signature HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1461
-#EXTINF:-1,HBO Signature HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/224
-#EXTINF:-1,History Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1459
-#EXTINF:-1,History Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/95
-#EXTINF:-1,Investigacao Discovery SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1514
-#EXTINF:-1,Investigação Discovery HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/218
-#EXTINF:-1,Lifetime HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1458
-#EXTINF:-1,Lifetime HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/216
-#EXTINF:-1,Luluzinha (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2609
-#EXTINF:-1,Mais Globosat HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/213
-#EXTINF:-1,Max HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1457
-#EXTINF:-1,Max HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/211
-#EXTINF:-1,Max Prime HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1456
-#EXTINF:-1,Max Prime HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/209
-#EXTINF:-1,Max UP HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1455
-#EXTINF:-1,Max UP HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/207
-#EXTINF:-1,Medabots (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4206
-#EXTINF:-1,Megapix HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1454
-#EXTINF:-1,Megapix HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/204
-#EXTINF:-1,Mickey Mouse Cartoon (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21058
-#EXTINF:-1,Mickey Mouse Clássico (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21059
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118508
+#EXTINF:-1,HBO PLUS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118516
+#EXTINF:-1,HBO PLUS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118518
+#EXTINF:-1,HBO PLUS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118517
+#EXTINF:-1,HBO SIGNATURE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118519
+#EXTINF:-1,HBO SIGNATURE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118521
+#EXTINF:-1,HBO SIGNATURE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118520
+#EXTINF:-1,HGTV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118951
+#EXTINF:-1,HGTV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118953
+#EXTINF:-1,HGTV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118952
+#EXTINF:-1,HISTORY
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118865
+#EXTINF:-1,HISTORY FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118863
+#EXTINF:-1,HISTORY HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118864
+#EXTINF:-1,LIFETIME
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118942
+#EXTINF:-1,LIFETIME FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118944
+#EXTINF:-1,LIFETIME HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118943
+#EXTINF:-1,MAIS GLOBOSAT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118945
+#EXTINF:-1,MAX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118597
+#EXTINF:-1,MAX FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118599
+#EXTINF:-1,MAX HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118598
+#EXTINF:-1,MAX PRIME
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118600
+#EXTINF:-1,MAX PRIME FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118602
+#EXTINF:-1,MAX PRIME HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118601
+#EXTINF:-1,MAX UP
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118591
+#EXTINF:-1,MAX UP FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118593
+#EXTINF:-1,MAX UP HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118592
+#EXTINF:-1,MEGAPIX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118594
+#EXTINF:-1,MEGAPIX FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118596
+#EXTINF:-1,MEGAPIX HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118595
+#EXTINF:-1,MTV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118920
+#EXTINF:-1,MTV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118922
 #EXTINF:-1,MTV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1453
-#EXTINF:-1,MTV HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/202
-#EXTINF:-1,Multishow HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1452
-#EXTINF:-1,Multishow HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/199
-#EXTINF:-1,Mundo Bita (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4207
-#EXTINF:-1,Nat Geo Kids HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1451
-#EXTINF:-1,Nat Geo Kids HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/195
-#EXTINF:-1,Nat Geo Wild HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1450
-#EXTINF:-1,Nat Geo Wild HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/193
-#EXTINF:-1,National Geographic HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/196
-#EXTINF:-1,Nick JR HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1503
-#EXTINF:-1,Nick JR HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/187
-#EXTINF:-1,Nickelodeon HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1449
-#EXTINF:-1,Nickelodeon HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/188
-#EXTINF:-1,O Pequeno Urso (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2607
-#EXTINF:-1,O Show da Luna (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4208
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118921
+#EXTINF:-1,MULTISHOW
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118923
+#EXTINF:-1,MULTISHOW FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118925
+#EXTINF:-1,MULTISHOW HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118924
+#EXTINF:-1,MUSIC BOX BRASIL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118926
+#EXTINF:-1,MUSIC BOX BRASIL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118928
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118927
+#EXTINF:-1,NATGEO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118859
+#EXTINF:-1,NATGEO FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118857
+#EXTINF:-1,NATGEO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118858
+#EXTINF:-1,NATGEO KIDS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118492
+#EXTINF:-1,NATGEO KIDS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118494
+#EXTINF:-1,NATGEO KIDS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118493
+#EXTINF:-1,NATGEO WILD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118862
+#EXTINF:-1,NATGEO WILD FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118860
+#EXTINF:-1,NATGEO WILD HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118861
+#EXTINF:-1,NICK
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118495
+#EXTINF:-1,NICK FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118497
+#EXTINF:-1,NICK HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118496
+#EXTINF:-1,NICK JR
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118498
+#EXTINF:-1,NICK JR FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118500
+#EXTINF:-1,NICK JR HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118499
+#EXTINF:-1,NOVO TEMPO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120607
+#EXTINF:-1,OFF
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118929
+#EXTINF:-1,OFF FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118931
 #EXTINF:-1,OFF HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/183
-#EXTINF:-1,Os Simpsons (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2328
-#EXTINF:-1,Papaléguas e o Coiote (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4209
-#EXTINF:-1,Paramount Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1448
-#EXTINF:-1,Paramount Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/181
-#EXTINF:-1,Patrulha Canina (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4210
-#EXTINF:-1,Peppa Pig (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2329
-#EXTINF:-1,Pica-Pau (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2325
-#EXTINF:-1,Play TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/179
-#EXTINF:-1,Premiere 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1511
-#EXTINF:-1,Premiere 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/172
-#EXTINF:-1,Premiere 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1510
-#EXTINF:-1,Premiere 3 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/170
-#EXTINF:-1,Premiere 4 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1509
-#EXTINF:-1,Premiere 4 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/168
-#EXTINF:-1,Premiere 5 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1508
-#EXTINF:-1,Premiere 5 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/166
-#EXTINF:-1,Premiere 6 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1507
-#EXTINF:-1,Premiere 6 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/164
-#EXTINF:-1,Premiere 7 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1506
-#EXTINF:-1,Premiere 7 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/162
-#EXTINF:-1,Premiere Clubes HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1447
-#EXTINF:-1,Premiere Clubes HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/159
-#EXTINF:-1,Prime Box Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4456
-#EXTINF:-1,Prime Box Brasil HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/157
-#EXTINF:-1,Record HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/148
-#EXTINF:-1,Record News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1513
-#EXTINF:-1,Record News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/405
-#EXTINF:-1,Record SP HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/403
-#EXTINF:-1,Rede TV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/136
-#EXTINF:-1,Rá Tim Bum HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/72
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118930
+#EXTINF:-1,PARAMOUNT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118603
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118605
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118604
+#EXTINF:-1,PLAY TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118932
+#EXTINF:-1,PLAY TV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118934
+#EXTINF:-1,PLAY TV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118933
+#EXTINF:-1,PREMIERE CLUBES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118355
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118357
+#EXTINF:-1,PREMIERE CLUBES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118356
+#EXTINF:-1,PREMIERE 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118358
+#EXTINF:-1,PREMIERE 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118360
+#EXTINF:-1,PREMIERE 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118359
+#EXTINF:-1,PREMIERE 3
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118361
+#EXTINF:-1,PREMIERE 3 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118363
+#EXTINF:-1,PREMIERE 3 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118362
+#EXTINF:-1,PREMIERE 4
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118364
+#EXTINF:-1,PREMIERE 4 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118366
+#EXTINF:-1,PREMIERE 4 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118365
+#EXTINF:-1,PREMIERE 5
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118367
+#EXTINF:-1,PREMIERE 5 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118369
+#EXTINF:-1,PREMIERE 5 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118368
+#EXTINF:-1,PREMIERE 6
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118370
+#EXTINF:-1,PREMIERE 6 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118372
+#EXTINF:-1,PREMIERE 6 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118371
+#EXTINF:-1,PREMIERE 7
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118373
+#EXTINF:-1,PREMIERE 7 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118375
+#EXTINF:-1,PREMIERE 7 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118374
+#EXTINF:-1,PRIME BOX BRASIL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118606
+#EXTINF:-1,PRIME BOX BRASIL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118608
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118607
+#EXTINF:-1,REAL MADRID TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118648
+#EXTINF:-1,RECORD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118888
+#EXTINF:-1,RECORD BAHIA CABRALIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120631
+#EXTINF:-1,RECORD BAHIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118879
+#EXTINF:-1,RECORD BELEM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118880
+#EXTINF:-1,RECORD BRASILIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118881
+#EXTINF:-1,RECORD BRASILIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120616
+#EXTINF:-1,RECORD CAMPINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120646
+#EXTINF:-1,RECORD FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118878
+#EXTINF:-1,RECORD GOIAS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118882
+#EXTINF:-1,RECORD HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118876
+#EXTINF:-1,RECORD HD*
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118877
+#EXTINF:-1,RECORD MG HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120639
+#EXTINF:-1,RECORD MINAS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118883
+#EXTINF:-1,RECORD MINAS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118884
+#EXTINF:-1,RECORD NEWS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118537
+#EXTINF:-1,RECORD NEWS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118539
+#EXTINF:-1,RECORD NEWS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118538
+#EXTINF:-1,RECORD RJ HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118885
+#EXTINF:-1,RECORD RS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118887
+#EXTINF:-1,RECORD RS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118886
+#EXTINF:-1,RECORD SANTOS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120624
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120620
+#EXTINF:-1,RECORD SERGIPE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120621
+#EXTINF:-1,RECORD SP HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120622
+#EXTINF:-1,RECORD TV BELEM HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120623
+#EXTINF:-1,RECORD TV PARANA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120651
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120647
+#EXTINF:-1,REDE BRASIL ES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120617
+#EXTINF:-1,REDE BRASIL ES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120618
+#EXTINF:-1,REDE BRASIL ES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120619
+#EXTINF:-1,REDE SUPER FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118889
+#EXTINF:-1,REDE TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118890
+#EXTINF:-1,REDE TV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118892
+#EXTINF:-1,REDE TV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118891
+#EXTINF:-1,Rádio Alegria FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117751
+#EXTINF:-1,Rádio Anos 70
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117736
+#EXTINF:-1,Rádio Anos 80
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117737
+#EXTINF:-1,Rádio Anos 90
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117738
+#EXTINF:-1,Rádio Atlântida FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117753
+#EXTINF:-1,Rádio Axé
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117745
+#EXTINF:-1,Rádio Brega
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117746
+#EXTINF:-1,Rádio Eldorado FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117757
+#EXTINF:-1,Rádio Eletrônica
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117741
+#EXTINF:-1,Rádio Forró
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117731
+#EXTINF:-1,Rádio Funk
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117733
+#EXTINF:-1,Rádio Gospel
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117742
+#EXTINF:-1,Rádio Hip Hop
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117743
+#EXTINF:-1,Rádio Historinha Infantil
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117750
+#EXTINF:-1,Rádio Jazz
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117744
+#EXTINF:-1,Rádio Jovem Pan FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117756
+#EXTINF:-1,Rádio Kids
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117729
+#EXTINF:-1,Rádio Mix FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117754
+#EXTINF:-1,Rádio MPB
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117730
+#EXTINF:-1,Rádio Novo Tempo FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117752
+#EXTINF:-1,Rádio Princesa FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117759
+#EXTINF:-1,Rádio Rap Nacional
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117740
+#EXTINF:-1,Rádio Reggae
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117747
+#EXTINF:-1,Rádio Roberto Carlos
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117735
+#EXTINF:-1,Rádio Rock Clássico
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117734
+#EXTINF:-1,Rádio Românticas
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117739
+#EXTINF:-1,Rádio Sertanejo
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117732
+#EXTINF:-1,Rádio Sertanejo Universitário
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117748
+#EXTINF:-1,Rádio Studio do Amor
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117749
+#EXTINF:-1,Rádio Tramandaí FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117758
+#EXTINF:-1,Rádio Transamerica FM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117755
+#EXTINF:-1,SBT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118893
+#EXTINF:-1,SBT BAHIA ARATU
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120630
+#EXTINF:-1,SBT BRASILIA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120625
+#EXTINF:-1,SBT FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118895
+#EXTINF:-1,SBT GO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120615
 #EXTINF:-1,SBT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1512
-#EXTINF:-1,SBT HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/402
-#EXTINF:-1,Scooby-Doo (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4211
-#EXTINF:-1,Sony HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1446
-#EXTINF:-1,Sony HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/127
-#EXTINF:-1,South Park (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4212
-#EXTINF:-1,Space HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1445
-#EXTINF:-1,Space HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/125
-#EXTINF:-1,SporTV 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1443
-#EXTINF:-1,SporTV 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/123
-#EXTINF:-1,SporTV 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1442
-#EXTINF:-1,SporTV 3 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/121
-#EXTINF:-1,SporTV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1444
-#EXTINF:-1,SporTV HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/119
-#EXTINF:-1,Studio Universal HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1441
-#EXTINF:-1,Studio Universal HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/117
-#EXTINF:-1,Super Choque (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2679
-#EXTINF:-1,Syfy HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1440
-#EXTINF:-1,Syfy HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/115
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118894
+#EXTINF:-1,SBT MG
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120648
+#EXTINF:-1,SBT PARANA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120650
+#EXTINF:-1,SBT RJ HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120626
+#EXTINF:-1,SBT RS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120627
+#EXTINF:-1,SBT SERGIPE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120628
+#EXTINF:-1,SBT SP HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120629
+#EXTINF:-1,SHOPTIME FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118941
+#EXTINF:-1,SONY
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118549
+#EXTINF:-1,SONY FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118551
+#EXTINF:-1,SONY HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118550
+#EXTINF:-1,SPACE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118552
+#EXTINF:-1,SPACE FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118554
+#EXTINF:-1,SPACE HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118553
+#EXTINF:-1,SPORTV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118642
+#EXTINF:-1,SPORTV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118643
+#EXTINF:-1,SPORTV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118644
+#EXTINF:-1,SPORTV 2
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118637
+#EXTINF:-1,SPORTV 2 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118636
+#EXTINF:-1,SPORTV 2 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118638
+#EXTINF:-1,SPORTV 3
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118639
+#EXTINF:-1,SPORTV 3 FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118641
+#EXTINF:-1,SPORTV 3 HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118640
+#EXTINF:-1,STUDIO UNIVERSAL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118555
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118557
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118556
+#EXTINF:-1,SYFY
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118558
+#EXTINF:-1,SYFY FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118560
+#EXTINF:-1,SYFY HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118559
+#EXTINF:-1,TBS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118561
+#EXTINF:-1,TBS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118563
 #EXTINF:-1,TBS HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/113
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118562
+#EXTINF:-1,TCM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118564
+#EXTINF:-1,TCM FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118566
 #EXTINF:-1,TCM HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/99
-#EXTINF:-1,Telecine Action HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1438
-#EXTINF:-1,Telecine Action HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/111
-#EXTINF:-1,Telecine Cult HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1437
-#EXTINF:-1,Telecine Cult HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/109
-#EXTINF:-1,Telecine Fun HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1436
-#EXTINF:-1,Telecine Fun HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/107
-#EXTINF:-1,Telecine Pipoca HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1435
-#EXTINF:-1,Telecine Pipoca HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/105
-#EXTINF:-1,Telecine Premium HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1434
-#EXTINF:-1,Telecine Premium HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/103
-#EXTINF:-1,Telecine Touch HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1439
-#EXTINF:-1,Telecine Touch HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/101
-#EXTINF:-1,TLC HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/94
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118565
+#EXTINF:-1,TELECINE ACTION
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118376
+#EXTINF:-1,TELECINE ACTION FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118378
+#EXTINF:-1,TELECINE ACTION HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118377
+#EXTINF:-1,TELECINE CULT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118379
+#EXTINF:-1,TELECINE CULT FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118381
+#EXTINF:-1,TELECINE CULT HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118380
+#EXTINF:-1,TELECINE FUN
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118382
+#EXTINF:-1,TELECINE FUN FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118384
+#EXTINF:-1,TELECINE FUN HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118383
+#EXTINF:-1,TELECINE PIPOCA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118385
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118387
+#EXTINF:-1,TELECINE PIPOCA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118386
+#EXTINF:-1,TELECINE PREMIUM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118388
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118390
+#EXTINF:-1,TELECINE PREMIUM HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118389
+#EXTINF:-1,TELECINE TOUCH
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118391
+#EXTINF:-1,TELECINE TOUCH FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118393
+#EXTINF:-1,TELECINE TOUCH HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118392
+#EXTINF:-1,TNT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118567
+#EXTINF:-1,TNT FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118569
 #EXTINF:-1,TNT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1433
-#EXTINF:-1,TNT HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/92
-#EXTINF:-1,TNT Series HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1432
-#EXTINF:-1,TNT Séries HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/90
-#EXTINF:-1,Todo Mundo Odeia o Chris (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2702
-#EXTINF:-1,Tom e Jerry (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4214
-#EXTINF:-1,TV Diario HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4473
-#EXTINF:-1,TV Diario HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4472
-#EXTINF:-1,TV5 SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/69
-#EXTINF:-1,Universal Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1431
-#EXTINF:-1,Universal Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/67
-#EXTINF:-1,VH1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/65
-#EXTINF:-1,VH1 Mega Hits SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/64
-#EXTINF:-1,Viva HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2680
-#EXTINF:-1,Viva HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/10
-#EXTINF:-1,Warner Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1430
-#EXTINF:-1,Warner Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/61
-#EXTINF:-1,WooHoo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/59
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118568
+#EXTINF:-1,TNT SERIES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118570
+#EXTINF:-1,TNT SERIES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118572
+#EXTINF:-1,TNT SERIES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118571
+#EXTINF:-1,TOONCAST
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118501
+#EXTINF:-1,TOONCAST FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118503
+#EXTINF:-1,TOONCAST HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118502
+#EXTINF:-1,TRU TV
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118954
+#EXTINF:-1,TRU TV FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118956
+#EXTINF:-1,TRU TV HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118955
+#EXTINF:-1,TV APARECIDA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120633
+#EXTINF:-1,TV CAMARA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120634
+#EXTINF:-1,TV CULTURA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120635
+#EXTINF:-1,TV EVAGILIZAR ES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120641
+#EXTINF:-1,TV EVANGILIZAR ES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120640
+#EXTINF:-1,TV EVANGILIZAR ES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120642
+#EXTINF:-1,TV JUSTICA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120636
+#EXTINF:-1,TV RA TIM BUM
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118504
+#EXTINF:-1,TV RA TIM BUM FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118506
+#EXTINF:-1,TV RA TIM BUM HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118505
+#EXTINF:-1,TV SENADO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120637
+#EXTINF:-1,TV VITORIA ES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120643
+#EXTINF:-1,TV VITORIA ES FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120644
+#EXTINF:-1,TV VITORIA ES HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/120645
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118573
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118575
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118574
+#EXTINF:-1,VH1 MEGA HITS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118935
+#EXTINF:-1,VH1 MEGA HITS FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118937
+#EXTINF:-1,VH1 MEGA HITS HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118936
+#EXTINF:-1,VIVA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118938
+#EXTINF:-1,VIVA FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118940
+#EXTINF:-1,VIVA HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118939
+#EXTINF:-1,WARNER CHANNEL
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118576
+#EXTINF:-1,WARNER CHANNEL FHD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118578
+#EXTINF:-1,WARNER CHANNEL HD
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/118577
+#EXTINF:-1,GLOBO RJ
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/121048
+#EXTINF:-1,A CASA DO MICKEY
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117915
+#EXTINF:-1,AS MENINAS SUPER PODEROSAS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117914
+#EXTINF:-1,BEYBLADE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117547
+#EXTINF:-1,CARANGAS X CARROES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117945
+#EXTINF:-1,CAVALEIROS DO ZODIACO - SAGA HADES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117918
+#EXTINF:-1,CAVALEIROS DO ZODIACO - TORNEIO GALACTICO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117545
+#EXTINF:-1,CHAVES ANIMADO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117857
+#EXTINF:-1,CLARENCIO, O OTIMISTA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117554
+#EXTINF:-1,CROODS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117722
+#EXTINF:-1,DE FERIAS COM O EX
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117947
+#EXTINF:-1,DIGIMON ADVENTURE
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117856
+#EXTINF:-1,DOUG
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117913
+#EXTINF:-1,DRAGON BALL CLASSICO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117548
+#EXTINF:-1,DRAGON BALL GT
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117718
+#EXTINF:-1,DRAGON BALL HEROES
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117719
+#EXTINF:-1,DRAGON BALL SUPER - BILLS O DEUS DA DESTRUICAO
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117724
+#EXTINF:-1,DRAGON BALL SUPER - GOKU BLACK
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117727
+#EXTINF:-1,DRAGON BALL SUPER - GOLDEN FREEZA
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117725
+#EXTINF:-1,DRAGON BALL SUPER - TORNEIO DO PODER
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117728
+#EXTINF:-1,DRAGON BALL SUPER - UNIVERSO 6
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117726
+#EXTINF:-1,DRAGON BALL Z - CELL E ANDROIDS
+http://p2pbrtv.com:80/Osvaldo/Osvaldo/117924
